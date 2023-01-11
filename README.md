@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Rassier</h1>
 <h3 align="center">A front end developer passionate about technology and new things</h3>
 
-- 🌱 I’m currently learning **Javascript, ReactJS, Typescript**
+- 🌱 I’m currently learning **Javascript, ReactJS, Typescript and NextJS**
 
 - 💬 Ask me about **React, Javascript**
 
